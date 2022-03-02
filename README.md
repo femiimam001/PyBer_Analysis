@@ -1,7 +1,9 @@
-# PyBer_AnalysisPyBer_Analysis
+# PyBer_Analysis
 
 Deliverable 3: A written report for the PyBer analysis
+
 Overview of Project
+
 This exploratory analysis is out to provide insights to ride accessibility and affordability for Pyber a ride-sharing app-based company.
 Our objective is to carryout exploratory data analysis on pyber share-ride data sets to determine the relationship between the city types, number of drivers and riders, including the percentage of total fare, rides and drivers by type of city.
 To obtain this, we have to dive into creating several visualizations, write python scripts using panda’s library and matplotlib, to create various charts and graphs.
