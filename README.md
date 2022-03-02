@@ -7,7 +7,7 @@ Overview of Project
 This exploratory analysis is out to provide insights to ride accessibility and affordability for Pyber a ride-sharing app-based company.
 Our objective is to carryout exploratory data analysis on pyber share-ride data sets to determine the relationship between the city types, number of drivers and riders, including the percentage of total fare, rides and drivers by type of city.
 To obtain this, we have to dive into creating several visualizations, write python scripts using panda’s library and matplotlib, to create various charts and graphs.
-Hence, all the this will enable better improvement to access ride sharing services at an affordable fare.
+Hence, all this will enable better improvement to access ride sharing services at an affordable fare.
 
 RESULTS
 Using the Pandas groupby() function with the count() and sum() methods on PyBer DataFrame columns, we get the total number of rides, total number of drivers, and the total fares for each city type. We Then, calculated the average fare per ride and average fare per driver for each city type. Finally, add this data to a new DataFrame, and then formatted the columns to obtain the following summary result.
