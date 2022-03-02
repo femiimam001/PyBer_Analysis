@@ -20,5 +20,5 @@ Ride-Sharing Summary DataFrame
 SUMMARY
 • The average fare per driver in rural cities comes the highest with $55.49 along with a mean ride count of 7, these amounts compared to $16 with an average round count of 24 in urban cities. Further questions need to be asked as to the reasons for this disparity.
 • A better maintenance of driver count bracket across different city types could have an impact on fare per driver upper and lower count boundaries, which in turn help reduce mean fares.
-• The rural city ratio of drivers to ride is 1 to 2. Research as to this reason will be a welcome development. Also, question questions need to be answered on:
+• The rural city ratio of drivers to ride is 1 to 2. Research as to this reason will be a welcome development. Also, questions need to be answered on:
 If rural cities are adequately covered on the map, with the actual market demand for Pyber ride-sharing app.
